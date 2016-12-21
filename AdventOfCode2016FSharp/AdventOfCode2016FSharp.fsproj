@@ -57,6 +57,7 @@
     <Compile Include="Day1\Wanderer.fs" />
     <Compile Include="Day1\Day1.fs" />
     <Compile Include="Day2\Day2.fs" />
+    <Compile Include="Day2\Keypad.fs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />
